@@ -12,7 +12,7 @@
 
 ✨ FULL FLOW MODEL FOR LANGFLOW 
 
-![image alt](https://github.com/metacore-stack/conversational-intelligence-engine/langflow.jpg?raw=true)
+![image alt](https://github.com/metacore-stack/conversational-intelligence-engine/blob/main/langflow.jpg?raw=true)
 
 **Complete Workflow Architecture:** This comprehensive flow diagram represents the end-to-end system I designed and implemented, highlighting my proficiency in building complex AI pipelines and workflow orchestration. The diagram demonstrates my deep understanding of how to connect multiple components—from user input processing, through intelligent agent routing, to database interactions and response generation. This visualization showcases my skills in system architecture, data flow design, and integration of multiple technologies (Groq APIs, Langflow, Astra DB, and Streamlit) into a cohesive, production-ready solution. It reflects my ability to think holistically about system design while maintaining attention to detail in each component's implementation.
 
