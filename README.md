@@ -1,12 +1,12 @@
 💬 Conversational Intelligence Engine
 
-![image alt](https://github.com/rajatrajat0210/AI-CustomerSupportBot/blob/main/AI-Chatbot-Frontend.jpg?raw=true)
+![image alt](https://github.com/metacore-stack/conversational-intelligence-engine/blob/main/AI-Chatbot-Frontend.jpg)
 
 **Frontend Interface Showcase:** This image displays the beautifully crafted Streamlit-based user interface that I developed to provide an intuitive and seamless customer interaction experience. The frontend demonstrates my expertise in creating responsive, user-friendly interfaces that prioritize customer experience. Built with custom components and thoughtful UX design, the interface enables real-time conversations with the AI system, showcasing my skills in frontend development, UI/UX design, and integration of complex AI systems into accessible user interfaces. The clean, modern design reflects my ability to translate technical capabilities into practical, customer-facing solutions.
 
 ✨ AGENTS IN LANGFLOW MODEL
 
-![image alt](https://github.com/metacore-stack/conversational-intelligence-engine/agents_langflow.jpg?raw=true)
+![image alt](https://github.com/metacore-stack/conversational-intelligence-engine/blob/main/agents_langflow.jpg)
 
 **Multi-Agent Architecture Visualization:** This diagram illustrates the sophisticated multi-agent system I architected using Langflow, demonstrating my advanced skills in AI orchestration and agent-based system design. The visualization shows how I've implemented a hierarchical agent structure where specialized agents handle different types of customer queries. This showcases my expertise in designing intelligent routing systems, understanding agent communication patterns, and implementing low-code AI solutions that maintain high performance and scalability. The architecture reflects my ability to leverage modern AI frameworks to create enterprise-grade conversational systems that can handle complex, multi-faceted customer interactions efficiently.
 
@@ -18,7 +18,7 @@
 
 ✨ PDF TO VECTOR DATA FOR EASY SEARCH
 
-![image alt](https://github.com/metacore-stack/conversational-intelligence-engine/pdftovector.jpg?raw=true)
+![image alt](https://github.com/metacore-stack/conversational-intelligence-engine/blob/main/pdftovector.jpg)
 
 **Vector Embedding Pipeline:** This image demonstrates my expertise in implementing advanced document processing and vectorization techniques. The diagram shows how I've built a sophisticated pipeline that converts PDF documents into searchable vector embeddings, enabling semantic search capabilities within the AI system. This showcases my skills in natural language processing, vector database integration, document parsing, and implementing RAG (Retrieval-Augmented Generation) architectures. The system I developed allows businesses to leverage their existing documentation and knowledge bases, transforming unstructured data into actionable intelligence that powers accurate, context-aware AI responses. This reflects my ability to work with cutting-edge AI technologies and solve real-world data accessibility challenges.
 
